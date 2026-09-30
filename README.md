@@ -1,6 +1,6 @@
 # PixelStreetArt Wallpapers
 
-Wallpaper packs for the [PixelStreetArt Niri rice](https://github.com/MixaDoDs/PixelStreetArt_Dotfiles_Niri)
+Wallpaper packs for the [PixelStreetArt Niri rice](https://github.com/MixaDoDs/AngelOS-Dotfiles)
 and its angelOS shell. They used to live in the dotfiles repository; now the installer
 downloads only the packs you pick.
 
@@ -10,6 +10,7 @@ downloads only the packs you pick.
 | `Pixel` — pixel street art, games, cities | 100 | ~187 MB | ![Pixel](previews/Pixel.jpg) |
 | `pixel-art-green-wallpapers` — green pixel art | 200 | ~275 MB | ![green](previews/pixel-art-green-wallpapers.jpg) |
 | `wallpapers` — the rice defaults (also shipped with the dotfiles) | 2 | ~6 MB | ![defaults](previews/wallpapers.jpg) |
+| `Hell` — pixel hell for angelOS's demon (public-domain paintings, see `Hell/CREDITS.md`) | 7 | ~0.4 MB | ![Hell](previews/Hell.jpg) |
 
 ## Install
 
@@ -36,7 +37,7 @@ the desktop → Wallpaper ▸ Next / Random).
 
 ## По-русски
 
-Паки обоев для rice PixelStreetArt и оболочки angelOS. Установщик dotfiles спрашивает,
+Паки обоев для rice PixelStreetArt и оболочки angelOS. `Hell` — пиксельный ад из картин в общественном достоянии (Джон Мартин, Доре, Босх): его ставит демоница angelOS. Установщик dotfiles спрашивает,
 какие паки скачать (`WALLPAPER_PACKS=Lain,Pixel`, `all` или `none`), и загружает только их.
 Вручную — `git sparse-checkout set <паки>`, как выше, и скопировать папки в `~/Pictures`.
 
