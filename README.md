@@ -10,7 +10,7 @@ downloads only the packs you pick.
 | `Pixel` — pixel street art, games, cities | 100 | ~187 MB | ![Pixel](previews/Pixel.jpg) |
 | `pixel-art-green-wallpapers` — green pixel art | 200 | ~275 MB | ![green](previews/pixel-art-green-wallpapers.jpg) |
 | `wallpapers` — the rice defaults (also shipped with the dotfiles) | 2 | ~6 MB | ![defaults](previews/wallpapers.jpg) |
-| `Hell` — pixel hell for angelOS's demon (public-domain paintings, see `Hell/CREDITS.md`) | 7 | ~0.4 MB | ![Hell](previews/Hell.jpg) |
+| `Hell` — pixel hell for angelOS's demon (public-domain paintings, see `Hell/CREDITS.md`): seven shared, a pair for each of the nine circles | 25 | ~3 MB | ![Hell](previews/Hell.jpg) |
 
 ## Install
 
